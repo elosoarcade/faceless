@@ -1,0 +1,20 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"eoa:faceless": {
+				"events": {
+					"ambient": "mob.guardian.land_idle",
+					"death": "mob.zombie.death",
+					"hurt": "mob.zombie.hurt",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.zombie.step",
+						"volume": 0.45
+					}
+				},
+				"pitch": [0.4, 0.6],
+				"volume": 1
+			}
+		}
+	}
+}

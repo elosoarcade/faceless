@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Faceless (R)",
+		"description": "Add Faceless to Bedrock by El Oso Arcade",
+		"uuid": "c444ff4b-e234-e736-b9c3-d8bebb56d6cd",
+		"version": [1, 1, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Faceless MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/faceless"
+	},
+	"modules": [
+		{
+			"description": "Faceless",
+			"type": "resources",
+			"uuid": "b3838b44-2cdd-87eb-ddd7-b6c1316bb117",
+			"version": [1, 1, 0]
+		}
+	]
+}
